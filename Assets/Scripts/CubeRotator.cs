@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CubeRotator : MonoBehaviour
 {
-    public Animator cube;
+    private Animator cube;
 
     // Start is called before the first frame update
     void Start()
